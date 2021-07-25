@@ -1,3 +1,3 @@
-# Dawn
+# Duncan's Jams
 
-Hello world!
+This is the theme for Duncan's Jam store. We be jammin!
